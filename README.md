@@ -1,7 +1,5 @@
 # gochallenge-fullcycle
 
-# RUN THE FOLLOW COMANDS
-
 ### IMAGE ON DOCKER HUB: ariano123/codeeducation
 
 ====
