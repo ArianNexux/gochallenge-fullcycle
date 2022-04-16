@@ -2,6 +2,7 @@
 **
 RUN THE FOLLOW COMANDS
 **
+
 ``
 docker build -t ariano123/codeeducation .
 ``
