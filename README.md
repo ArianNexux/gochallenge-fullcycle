@@ -7,9 +7,9 @@
 ====
 ##### OR RUN 
 ``
-docker build -t ariano123/codeeducation .
+docker build -t <user-docker-dub>/codeeducation .
 ``
 
 ``
-docker run ariano123/codeeducation
+docker run <user-docker-dub>/codeeducation
 ``
